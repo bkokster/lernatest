@@ -1,5 +1,5 @@
 {
-  "name": "aloha-world",
+  "name": "@bkokster/aloha-world",
   "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Benji Kok <bkokster@gmail.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/bkokster/lernatest/issues"
-  }
+  },
+  "gitHead": "4783af237f275a7cc5eb3042b8c5eb5b5fc018e3"
 }
